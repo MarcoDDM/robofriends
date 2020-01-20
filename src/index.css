@@ -2,5 +2,6 @@ body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
-  background: linear-gradient(to left, rgba(1,27,82,1) 0%, rgba(0,128,128,31) 100%); /* w3c */
+  background:-webkit-gradient(linear, 80% 20%, 10% 21%, from(#44259E), to(#597E28))
+; /* w3c */
 }
